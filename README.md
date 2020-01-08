@@ -3,6 +3,6 @@
  
  we have:
  -minecraft
- -only minecraft rn
 
-Battlefront II (2017) is coming soon
+ coming soon:
+ -Battlefront II (2017) is coming soon
