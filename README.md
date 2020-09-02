@@ -1,5 +1,5 @@
 # Games
- just some java based games to play in school
+ just some java based games to play
  
  we have:
  -minecraft
